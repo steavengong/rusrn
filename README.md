@@ -1,2 +1,0 @@
-# rusrn
-Created with CodeSandbox
